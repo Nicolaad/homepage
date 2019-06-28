@@ -1,12 +1,15 @@
-import React from "react";
+import React from 'react';
+import './App.css';
+import TopBar from './components/TopBar.js';
+import LandingImage from './components/LandingImage.js';
 import BottomBar from "./components/BottomBar";
-import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <p> Jonathan er kul</p>
-      <BottomBar />
+    <TopBar/>
+    <LandingImage/>
+    <BottomBar />
     </div>
   );
 }
