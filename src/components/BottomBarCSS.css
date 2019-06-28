@@ -1,0 +1,17 @@
+#bottomBar{
+    position: relative;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+#linkedInSvg{
+    height: 35px;
+}
+
+#githubSvg{
+    height: 35px;
+}
