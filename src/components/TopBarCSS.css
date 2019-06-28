@@ -1,0 +1,19 @@
+.parent{
+  display: flex;
+  justify-content: center;
+}
+.TopBar{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  height:100px;
+
+
+
+
+}
+.TopBar button{
+  width: 20%;
+  height: 100%;
+  font-size: 300%;
+}
