@@ -7,13 +7,15 @@
   align-items: flex-start;
   justify-content: space-around;
   height:100px;
-
-
-
-
+  width: 80%;
+  margin: auto;
 }
 .TopBar button{
   width: 20%;
   height: 100%;
-  font-size: 300%;
+  font-size: 40px;
+  background-color: transparent;
+  border: none;
+  font-family: 'Lora', serif;
+  outline: none;
 }
